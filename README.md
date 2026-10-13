@@ -6,13 +6,12 @@ It is the sequel to the tabular version in this repository (`SyntheticConsciousn
 
 There are no dependencies.
 
-> If this lives in its own repository, rename this file to `README.md`.
 
 ## Why this exists
 
 Aleksander's systems were not hash maps. They were networks of small RAM look-up tables, with state held as a pattern across the network and learning done by writing to memory. This program moves the axioms onto that kind of substrate and then tests, by switching each axiom off in turn, whether each one still does real work.
 
-The answer turns out to be more interesting than "yes". See [What the results say](#what-the-results-say).
+The answer turns out to be more interesting than "yes". 
 
 ## What this is, and what it isn't
 
